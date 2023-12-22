@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BeTernakApp</string>
+    <string name="price">price</string>
+    <string name="tvprice">product_price</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="product_description">product_description</string>
+    <string name="product_name">product_name</string>
+    <string name="beli_sekarang">Beli Sekarang</string>
+    <string name="product_image">product_image</string>
+    <string name="detail_product">Detail Product</string>
+    <string name="kategori_ternak">Kategori Ternak</string>
+    <string name="logo">logo</string>
+    <string name="username">Username</string>
+    <string name="et_username">username</string>
+    <string name="password">Password</string>
+    <string name="etpassword">password</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome">Welcome</string>
+    <string name="silahkan_login_menggunakan_user_dan_password_anda">Silahkan login menggunakan user dan password anda</string>
+    <string name="pembayaran_berhasil">pembayaran Berhasil</string>
+    <string name="complete">Complete</string>
+    <string name="done">Done</string>
+</resources>
